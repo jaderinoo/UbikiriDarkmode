@@ -1,0 +1,40 @@
+body {
+  background-color: #2a2438 !important;
+  color: #dbd8e3 !important;
+}
+
+.wallet-panel {
+  background-color: #352f44 !important;
+}
+
+.wallet-create {
+  background-color: #352f44 !important;
+}
+
+.nav {
+  background-color: #352f44 !important;
+}
+
+.nav[_ngcontent-c6] a[_ngcontent-c6]{
+  color: #dbd8e3 !important;
+}
+
+.balance[_ngcontent-c9] .heading[_ngcontent-c9]{
+  color: #dbd8e3 !important;
+}
+
+.address[_ngcontent-c9] input.mat-input-element {
+  color: #dbd8e3 !important;  
+}
+
+.ng-star-inserted{
+  color: #dbd8e3 !important;
+}
+
+.wrapper {
+  color: #dbd8e3 !important;
+}
+
+.name {
+  color: #dbd8e3 !important;
+}

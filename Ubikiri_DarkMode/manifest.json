@@ -1,0 +1,13 @@
+{
+  "manifest_version": 2,
+
+  "name": "Ubikiri Darkmode",
+  "version": "0.1.0",
+  "description": "A Ubikiri Darkmode",
+
+  "content_scripts": [{
+    "css": ["styles.css"],
+    "matches": ["https://ubikiri.com/*"]
+  }]
+
+}
